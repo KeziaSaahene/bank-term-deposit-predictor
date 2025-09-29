@@ -78,11 +78,3 @@ The app allows **interactive prediction**:
 [[https://bank-term-deposit-predictor-hkfnpcbe5bkrfnqqyhvhtj.streamlit.app](https://bank-term-deposit-predictor-hkfnpcbe5bkrfnqqyhvhtj.streamlit.app) ](https://bank-term-deposit-predictor-hkfnpcbe5bkrfnqqyhvhtj.streamlit.app) 
 
 ---
-
-## 📝 How to Run Locally
-
-1. **Clone the repo:**
-
-```bash
-git clone https://github.com/KeziaSaahene/bank-term-deposit-predictor.git
-cd bank-term-deposit-predictor
